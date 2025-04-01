@@ -35,6 +35,7 @@ Video created with Loom!
 ## Notes
 
 Describe any challenges encountered while building the app.
+
 One of the challenges I ran into was getting the syntax just right, especially when working with DOM manipulation and template literals in JavaScript. I also spent time making sure the layout and functionality of the site matched the expected design exactly, which meant double-checking class names, element structure, and testing everything in Live Server.
 
 ## License
