@@ -21,9 +21,7 @@ The following **optional** features are implemented:
 * [ ] Allow users to utilize a search bar to find and sort games!
 
 ## Video Walkthrough
-
 Here's a walkthrough of implemented features:
-
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
